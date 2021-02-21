@@ -1,0 +1,13 @@
+Apple,2.00,apple.jpg
+Banana,1.99,banana.jpg
+Orange,0.89,orange.jpg
+Parmesan,4.89,parmesan.jpg
+Pork Chop,7.34,porkchop.jpg
+Broccoli,0.78,broccoli.jpg
+Organic Kale,1.23,kale.jpg
+Daikon Radish,2.12,daikon.jpg
+Lettuce,1.78,lettuce.jpg
+Star Anise,3.22,staranise.jpg
+Cucumber,0.98,cucumber.jpg
+Serrano Chili,1.02,serrano.jpg
+Ground Beef,3.89,groundbeef.jpg

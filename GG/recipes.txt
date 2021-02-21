@@ -1,0 +1,9 @@
+Apple Pie/Apple.3,Star Anise.1
+Pork Chops/Pork Chop.2,Lettuce.1,Serrano Chili.1
+Broccoli Soup/Broccoli.2,Organic Kale.2,Star Anise.1,Parmesan.1
+Beef & Broccoli/Broccoli.1,Ground Beef.1,Serrano Chili.1,Star Anise.1
+Cheesy Kale Soup/Organic Kale.2,Parmesan.1
+Porkchop and Broccoli/Broccoli.2,Pork Chop.1,Serrano Chili.1
+Apple-Banana Smoothie/Apple.3,Banana.2
+Fruit Salad/Apple.1,Banana.1,Cucumber.1,Lettuce.2,Orange.1
+Cucumber Salad/Cucumber.2,Lettuce.1
